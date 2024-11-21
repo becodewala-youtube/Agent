@@ -1,7 +1,8 @@
 ## Agent Management🧔‍♂️
 
-Main Table Page (i am finding difficulty to understand your api that you have been provided , so i didn't get the data and i have build the ui better with theme)
-![Screenshot 2024-11-20 170550](https://github.com/user-attachments/assets/bc757806-8508-410a-8e25-2235d9ae11aa)
+Main Table Page 
+![Screenshot 2024-11-21 153649](https://github.com/user-attachments/assets/92e0fb11-0029-4fc0-aef6-14f46ad56dde)
+
 
 
 ## Agent Details page
