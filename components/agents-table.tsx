@@ -31,7 +31,7 @@ export function AgentsTable() {
       try {
         const response = await axios.get('https://api.retellai.com/v1/agents', {
           headers: {
-            Authorization: `Bearer key_383b9c3886c1c679af10268fb7b8`,
+            Authorization: `Bearer ${process.env.NEXT_PUBLIC_RETELL_API_KEY}`,
           },
         });
         setAgents(response.data.agents);
